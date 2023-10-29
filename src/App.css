@@ -1,0 +1,17 @@
+.container {
+  margin: 20 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  max-width: 50%;
+  align-self: center;
+  margin: 0 auto;
+}
